@@ -13,3 +13,4 @@ print("The sorted list",list_4)
 list_5=[1,2,4,5,6,7,8]
 index_slicing=list_5[2:]
 print(index_slicing)
+print(list_5)
